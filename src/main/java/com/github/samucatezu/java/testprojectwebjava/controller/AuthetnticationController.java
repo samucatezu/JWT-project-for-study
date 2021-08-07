@@ -1,8 +1,8 @@
 package com.github.samucatezu.java.testprojectwebjava.controller;
 
-import com.github.samucatezu.java.dto.DadosLogin;
-import com.github.samucatezu.java.dto.UserAutheticatedDTO;
-import com.github.samucatezu.java.model.User;
+import com.github.samucatezu.java.testprojectwebjava.dto.DadosLogin;
+import com.github.samucatezu.java.testprojectwebjava.dto.UserAutheticatedDTO;
+import com.github.samucatezu.java.testprojectwebjava.model.User
 import com.github.samucatezu.java.service.UserAuthenticationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
