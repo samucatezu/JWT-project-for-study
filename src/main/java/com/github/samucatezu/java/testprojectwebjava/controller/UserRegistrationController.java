@@ -3,7 +3,8 @@ package com.github.samucatezu.java.testprojectwebjava.controller;
 import com.github.samucatezu.java.testprojectwebjava.dto.UserAutheticatedDTO;
 import com.github.samucatezu.java.testprojectwebjava.dto.UserRegistrationDTO;
 import com.github.samucatezu.java.testprojectwebjava.model.User
-import com.github.samucatezu.java.service.UserRegistrationService;
+import com.github.samucatezu.java.testprojectwebjava.service.UserAuthenticationService
+import com.github.samucatezu.java.testprojectwebjava.service.UserRegistrationService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
