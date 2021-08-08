@@ -1,6 +1,6 @@
 package com.github.samucatezu.java.testprojectwebjava.dto;
 
-import com.github.samucatezu.java.testprojectwebjava.model.User
+import com.github.samucatezu.java.testprojectwebjava.model.User;
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 
 @JsonAutoDetect(fieldVisibility= JsonAutoDetect.Visibility.ANY)

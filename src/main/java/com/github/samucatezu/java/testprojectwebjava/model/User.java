@@ -1,9 +1,10 @@
 package com.github.samucatezu.java.testprojectwebjava.model;
 
-import javax.persistence.GeneratedValue;
+import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.GeneratedValue
+import javax.persistence.GeneratedValue;
 
+@Entity
 public class User {
 
     @Id
