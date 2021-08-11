@@ -1,1 +1,1 @@
-test-project-web-java
+JWT project for study
